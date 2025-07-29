@@ -1,4 +1,3 @@
-# Design-a-webpage-
 # Elegant Webpage Project
 
 ## Overview
